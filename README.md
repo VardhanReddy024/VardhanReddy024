@@ -1,5 +1,18 @@
 # 💫 About Me:
-Hi, I'm Vardhan Kumar Reddy 👋<br><br>AI & Data Science Undergraduate passionate about building intelligent systems and solving real-world problems with data.<br><br>About Me<br>🎓 AI & Data Science Student<br>🤖 Interested in Artificial Intelligence, Machine Learning, and Data Analytics<br>💻 Skilled in Python, SQL, Machine Learning, Power BI, and Data Visualization<br>🏆 National Hackathon Finalist<br>🌱 Currently exploring Generative AI, Deep Learning, and Data Engineering<br>📈 Focused on creating scalable, data-driven applications<br>📫 Open to internships and entry-level opportunities in AI, Data Science, and Analytics
+Hi, I'm Vardhan Kumar Reddy 👋<br><br>
+
+AI & Data Science undergraduate passionate about building intelligent, scalable, and production-ready AI systems that solve real-world problems.<br><br>
+
+About Me<br>
+🎓 AI & Data Science Undergraduate<br>
+🤖 Aspiring AI/ML Engineer focused on Machine Learning and Generative AI<br>
+💻 Skilled in Python, SQL, Machine Learning, Deep Learning, and Data Analytics<br>
+🧠 Exploring LLMs, RAG, AI Agents, and Multi-Agent Systems<br>
+⚙️ Interested in building AI-powered applications, APIs, and scalable backend systems<br>
+📊 Experienced in data analysis, visualization, and machine learning model development<br>
+🏆 National Hackathon Finalist with hands-on experience building real-world AI solutions<br>
+🚀 Focused on transforming ML models and LLMs into reliable, production-ready applications<br>
+📫 Open to AI Engineer, ML Engineer, Data Science, and AI/ML internship opportunities
 
 
 ## 🌐 Socials:
